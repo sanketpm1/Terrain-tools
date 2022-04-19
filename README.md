@@ -1,5 +1,5 @@
 # Terrain-tools
-Pictures of the terrain created in Unity
+Experimenting with Unity Terrain Tools: terrain, grass, trees along with environment using Lighting, Skyboxes, LoD Levels and Textures.
 
 Screenshot 1:
 ![screenshot1](terrain1.png)
