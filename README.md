@@ -2,7 +2,7 @@
 Pictures of the terrain created in Unity
 
 Screenshot 1:
-![screenshot1](Screenshot 2022-04-19 at 11.59.48 AM.png)
+![screenshot1](terrain1.png)
 
 Screenshot 2:
 
