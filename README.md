@@ -6,16 +6,16 @@ Screenshot 1:
 
 Screenshot 2:
 
-![screenshot2](Screenshot 2022-04-19 at 12.02.26 PM.png)
+![screenshot2](terrain2.png)
 
 Screenshot 3:
 
-![screenshot3](Screenshot 2022-04-19 at 12.04.56 PM.png)
+![screenshot3](terrain3.png)
 
 Screenshot 4:
 
-![screenshot4](Screenshot 2022-04-19 at 12.05.47 PM.png)
+![screenshot4](terrain4.png)
 
 Screenshot 5:
 
-![screenshot5](Screenshot 2022-04-19 at 12.07.23 PM.png)
+![screenshot5](terrain5.png)
